@@ -1,3 +1,3 @@
-Producto: Palas de padel | Ventas: 30
+Producto: Palas de padel | Ventas: 28
 Producto: Pelotas de padel | Ventas: 35
 Producto: Mochilas deportivas | Ventas: 12
